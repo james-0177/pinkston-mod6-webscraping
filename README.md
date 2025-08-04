@@ -10,3 +10,8 @@ Choose a BeautifulSoup parser:
 ## Getting Started
 
 Fork (copy into your GitHub account) and clone down (to your machine) this repo to get started with web scraping.
+
+## Copied web-scraping.ipynb and completed Project 6
+
+Copied web-scraping.ipynb to this repository, and then completed Project 6. A rather extensive (for me) dive into NLP and Web Scraping, culminating in the creation of histograms to show my results.
+
